@@ -27,6 +27,15 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
 }
 
+.btn-primary{
+  background-color: #1bac91;
+  border-color: #1bac91
+}
+.btn-primary:hover{
+  background-color: #21cfaf;
+  border-color: #21cfaf
+}
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
